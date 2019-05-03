@@ -1,4 +1,4 @@
-var CACHE_NAME = 'my-new-app-01';
+var cacheName = 'my-new-app-01';
 var filesToCache = [
   '/',
   '/manifest.json',
